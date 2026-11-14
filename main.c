@@ -1,4 +1,5 @@
 #include <stdio.h>
+printf("Bienvenue dans le projet collaboratif !\n");
 
 int produit(int a, int b) {
     return a * b;
