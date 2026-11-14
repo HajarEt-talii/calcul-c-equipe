@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+printf("Bonjour et bienvenue dans notre projet !\n");
 int produit(int a, int b) {
     return a * b;
 }
