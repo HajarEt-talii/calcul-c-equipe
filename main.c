@@ -1,5 +1,8 @@
 #include <stdio.h>
-printf("Bonjour et bienvenue dans notre projet !\n");
+int main() {
+    printf("Bonjour et bienvenue dans le projet collaboratif !\n");
+    return 0;
+}
 int produit(int a, int b) {
     return a * b;
 }
